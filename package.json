@@ -1,0 +1,39 @@
+{
+  "name": "@tailspiral/primitives",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc -b"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/draft-js": "^0.11.10",
+    "@types/draftjs-to-html": "^0.8.1",
+    "@types/html-to-draftjs": "^1.4.0",
+    "@types/react": "^18.0.31",
+    "@types/react-color": "^3.0.6",
+    "@types/react-draft-wysiwyg": "^1.13.4",
+    "autoprefixer": "^10.4.14",
+    "classnames": "^2.3.2",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.3.1",
+    "webpack": "^5.77.0",
+    "webpack-cli": "^5.0.1"
+  },
+  "dependencies": {
+    "@formkit/auto-animate": "^1.0.0-beta.6",
+    "draft-js": "^0.11.7",
+    "draftjs-to-html": "^0.9.1",
+    "html-to-draftjs": "^1.5.0",
+    "primeicons": "^6.0.1",
+    "primereact": "^9.2.2",
+    "react": "^18.2.0",
+    "react-color": "^2.19.3",
+    "react-dom": "^18.2.0",
+    "react-draft-wysiwyg": "^1.15.0"
+  }
+}
