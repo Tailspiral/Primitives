@@ -1,6 +1,6 @@
 {
   "name": "@tailspiral/primitives",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "Tailspiral Primitives: A collection of pre-designed building blocks and components for use with TailSpiral ",
   "main": "dist/index.js",
   "homepage": "https://github.com/Tailspiral/Primitives",
