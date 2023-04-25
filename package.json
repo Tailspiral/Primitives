@@ -1,15 +1,24 @@
 {
   "name": "@tailspiral/primitives",
   "version": "0.0.1",
-  "description": "",
+  "description": "Tailspiral Primitives: A collection of pre-designed building blocks and components for use with TailSpiral ",
   "main": "dist/index.js",
+  "homepage": "https://github.com/Tailspiral/Primitives",
+  "bugs": "https://github.com/Tailspiral/Primitives/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tailspiral/Primitives.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc -b"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "react",
+    "webbuilder",
+    "Tailspiral"
+  ],
+  "author": "Panthyy",
   "devDependencies": {
     "@types/draft-js": "^0.11.10",
     "@types/draftjs-to-html": "^0.8.1",
