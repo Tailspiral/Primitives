@@ -1,4 +1,4 @@
-# TailSpiral Primitives
+# Tailspiral Primitives
 
 TailSpiral Settings Primitives is a collection of pre-designed building blocks and components for use with Tailspiral. This repository offers a wide range of UI primitives to be used to configure your components such as.
 
